@@ -1,0 +1,15 @@
+{
+    "name": "phantom-wallet-demo",
+    "version": "1.0.0",
+    "description": "Demo per connettersi a Phantom Wallet",
+    "main": "src/app.js",
+    "scripts": {
+      "start": "serve public", 
+      "build": "npm run start"
+    },
+    "dependencies": {
+      "serve": "^14.0.1"
+    },
+    "devDependencies": {}
+  }
+  
